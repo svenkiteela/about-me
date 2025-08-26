@@ -1,7 +1,7 @@
 "# About Me" 
 # About Me
 
-Hi 👋, my name is Sailusha Venkiteel.  
+Hi 👋, my name is Sailusha Venkiteela.  
 I am a Computer Science Graduate from Florida Institute of Technology.  
 
 I have experience in:
